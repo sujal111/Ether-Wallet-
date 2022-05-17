@@ -24,11 +24,11 @@ Storing private keys using third-party programs such as applications may seem li
 There are two main types of Ethereum accounts: externally owned accounts (EOAs) and contract accounts. Externally owned accounts are made up of public and private cryptographic pairs of keys. Public and private keys prevent forgeries by proving that the sender genuinely signed a transaction. Because users use their private key to sign transactions, it gives them control over the funds in their account. 
 Users only have private keys (while never really holding cryptocurrency), so the funds always lie on Ethereum’s ledger. The Ethereum ledger is a record-keeping system that anonymously keeps track of individuals’ identities, ETH balances and a record of all valid transactions between network participants.
 
-## Authors
-
-- [@katherinepeterson](https://www.github.com/octokatherine)
-
+## Author
 Sujal
+- https://www.linkedin.com/in/sujal-maiti-a4931a190/
+
+
 
 
 ## Screenshots
